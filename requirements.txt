@@ -1,0 +1,5 @@
+sqlalchemy<=1.4.41
+starlette
+databases
+fastapi
+aiomysql
